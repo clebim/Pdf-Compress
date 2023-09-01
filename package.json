@@ -1,0 +1,13 @@
+{
+  "name": "pock-pdf-compress",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.4.5"
+  }
+}
